@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<phones>
+  <phone num="1">
+    <calls>
+      <call start="07:52" duration="20" destination="0000000"></call>
+      <call start="05:00" duration="25" destination="1111111"></call>
+      <call start="10:00" duration="48" destination="0222222"></call>
+      <call start="14:32" duration="30" destination="0775404858" />
+      <call start="14:32" duration="30" destination="0775404858" />
+      <call start="14:32" duration="30" destination="0775404858" />
+      <call start="14:32" duration="30" destination="0775404858" />
+      <call start="14:32" duration="30" destination="0775404858" />
+    </calls>
+  </phone>
+  <phone num="2">
+    <calls>
+      <call start="12:00" duration="30" destination="025829589"></call>
+      <call start="05:00" duration="45" destination="0556764634"></call>
+      <call start="10:41" duration="2" destination="0534163943"></call>
+    </calls>
+  </phone>
+  <phone num="3">
+    <calls>
+      <call start="03:30" duration="55" destination="0534163943"></call>
+      <call start="05:00" duration="10" destination="0775404858"></call>
+      <call start="02:33" duration="70" destination="025400531"></call>
+    </calls>
+  </phone>
+  <phone num="4">
+    <calls>
+      <call start="09:12" duration="62" destination="0527697237"></call>
+      <call start="05:19" duration="3" destination="0548435309"></call>
+      <call start="16:44" duration="12" destination="0556764256"></call>
+    </calls>
+  </phone>
+</phones>
